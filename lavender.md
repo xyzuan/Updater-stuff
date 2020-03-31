@@ -1,15 +1,16 @@
-^AncientOS 2.0 Update
+Source Changelogs :
+• Fixed Advanced Reboot FC
+• Fixed Edit longshot
+• Fixed Themes FC
+• Update dimens themes
+• Update AncientWallpaperZone.apk
 
-Changelog:
-• BoreUp Kernel Included
-• New looks OneUi Settings
-• Added Ambient Edge Light
-• Added Blur Behind QS
-• Added more VoLTE Style
-• Added System Animation, Screen Off Animation, etc
-• Relayout some qs panel layout
-• Added More usefully Tiles
-• Hide smart replys
-• Status bar tuner
-• Invert layout navbar
-• etc
+Device Changelogs :
+• Switch to AncientBoreUpHMP
+• Merge 4.4.217
+• Use Lavender FP Build
+• Fixed Heat Temp
+• Fixed Battery Usage
+• Revert Pixel Power Hal
+• Optimize CPU Thortling
+• Address Some Denials
