@@ -1,16 +1,13 @@
-Source Changelogs :
-• Fixed Advanced Reboot FC
-• Fixed Edit longshot
-• Fixed Themes FC
-• Update dimens themes
-• Update AncientWallpaperZone.apk
-
 Device Changelogs :
-• Switch to AncientBoreUpHMP
-• Merge 4.4.217
-• Use Lavender FP Build
-• Fixed Heat Temp
-• Fixed Battery Usage
-• Revert Pixel Power Hal
-• Optimize CPU Thortling
-• Address Some Denials
+ - Bump Kernel to AncientMegaZord HMP
+ - Upstream Linux 4.4.219
+ - Compiled With Proton Clang 11.0.0
+ - Added FPS Info Overlay
+ - Updated Coral FP Build
+ - Updated Thermal Bloobs
+ - Updated overlay
+ - Address more denial
+ - Adjust better statusbar padding
+ - Adjust keylayout
+ - Disable signal inflation
+ - Disable fingerprint gesture
